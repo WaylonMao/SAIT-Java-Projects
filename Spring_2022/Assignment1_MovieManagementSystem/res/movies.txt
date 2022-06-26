@@ -1,0 +1,502 @@
+117,Holes,2003
+117,Ant-Man,2015
+85,Lilo & Stitch,2002
+109,Terminator 3: Rise of the Machines,2003
+140,Hacksaw Ridge,2016
+115,Ted 2,2015
+106,The Jungle Book,2016
+88,Don't Breathe,2016
+126,King Arthur: Legend of the Sword,2017
+104,A Dog's Will,2000
+95,The Dark Tower,2017
+99,The Last King,2016
+151,The Departed,2006
+91,Gravity,2013
+144,The Shining,1980
+96,Up,2009
+116,Ghostbusters,2016
+140,Apollo 13,1995
+104,Jumanji,1995
+112,Thor: The Dark World,2013
+94,Once Upon a Time in Venice,2017
+152,The Dark Knight,2008
+126,Terminator Genisys,2015
+81,Ice Age,2002
+97,Legend of the Guardians: The Owls of Ga'Hoole,2010
+125,A Most Violent Year,2014
+106,The Runaways,2010
+124,Power Rangers,2017
+101,Equals,2015
+105,Cinderella,2015
+103,DragonHeart,1996
+102,Sin City: A Dame to Kill For,2014
+119,Enigma,2001
+123,Suicide Squad,2016
+116,Baywatch,2017
+110,Me Before You,2016
+116,Prince of Persia: The Sands of Time,2010
+66,9 Songs,2004
+78,The Jungle Book,1967
+87,Boyka: Undisputed IV,2016
+119,Tomorrow Never Dies,1997
+111,Wind River,2017
+123,Jason Bourne,2016
+119,French Connection II,1975
+107,Dunkirk,2017
+97,Sex Tape,2014
+189,The Green Mile,1999
+102,Frozen,2013
+128,Showgirls,1995
+116,Highlander,1986
+103,Saw,2004
+133,Fantastic Beasts and Where to Find Them,2016
+97,Sinister 2,2015
+116,War of the Worlds,2005
+90,Factory Girl,2006
+112,Beauty and the Beast,2014
+100,Finding Nemo,2003
+114,The Huntsman: Winter's War,2016
+99,Hercules,2014
+132,Maze Runner: The Scorch Trials,2015
+112,Stonehearst Asylum,2014
+99,Jaws 3-D,1983
+144,Casino Royale,2006
+175,The Godfather,1972
+105,Rise of the Planet of the Apes,2011
+114,The Emerald Forest,1985
+116,World War Z,2013
+143,Skyfall,2012
+129,Live by Night,2016
+110,Dr. No,1962
+158,2012,2009
+124,The Twilight Saga: Eclipse,2010
+88,Mulan,1998
+129,Now You See Me 2,2016
+100,Resident Evil: Damnation,2012
+127,Dawn of the Dead,1978
+124,Jurassic World,2015
+113,3 Days to Kill,2014
+129,Sherlock Holmes: A Game of Shadows,2011
+123,Blade: Trinity,2004
+120,Mad Max: Fury Road,2015
+83,The Little Mermaid,1989
+139,Fight Club,1999
+115,Raiders of the Lost Ark,1981
+91,Minions,2015
+143,Cast Away,2000
+92,The Fury of a Patient Man,2016
+141,The Judge,2014
+113,Edge of Tomorrow,2014
+165,Django Unchained,2012
+118,Lion,2016
+119,Velvet Goldmine,1998
+89,Lucy,2014
+130,The Perfect Storm,2000
+90,Shark Tale,2004
+119,High-Rise,2015
+104,The Lego Batman Movie,2017
+117,Amazing Grace,2006
+74,Black Mirror: White Christmas,2014
+140,The Lost City of Z,2016
+117,Kick-Ass,2010
+114,San Andreas,2015
+97,Maleficent,2014
+91,Underworld: Blood Wars,2016
+115,The Incredibles,2004
+93,Undisputed II: Last Man Standing,2006
+201,The Lord of the Rings: The Return of the King,2003
+115,Charlie and the Chocolate Factory,2005
+101,Rough Night,2017
+102,Grown Ups,2010
+149,Transformers: The Last Knight,2017
+93,Scouts Guide to the Zombie Apocalypse,2015
+137,Terminator 2: Judgment Day,1991
+98,Before I Fall,2017
+122,American Beauty,1999
+106,Fantastic Four,2005
+122,Star Trek Beyond,2016
+126,The Fifth Element,1997
+90,Wish Upon,2017
+92,Penguins of Madagascar,2014
+108,The Terminator,1984
+96,Despicable Me 3,2017
+118,Pan's Labyrinth,2006
+123,What Happened to Monday,2017
+100,The Hangover Part III,2013
+117,Nightcrawler,2014
+115,Doctor Strange,2016
+113,Donnie Darko,2001
+147,Straight Outta Compton,2015
+93,Annie Hall,1977
+128,Dracula,1992
+96,12 Angry Men,1957
+125,Fifty Shades of Grey,2015
+109,Law Abiding Citizen,2009
+170,Heat,1995
+85,The Shrine,2010
+125,Flying Swords of Dragon Gate,2011
+147,Mulholland Drive,2001
+95,Kidnap,2017
+115,E.T. the Extra-Terrestrial,1982
+130,Iron Man 3,2013
+147,Captain America: Civil War,2016
+108,On the Waterfront,1954
+110,The Key,1983
+153,Harry Potter and the Half-Blood Prince,2009
+109,The Scorpion King: Rise of a Warrior,2008
+100,The Hangover,2009
+125,Spirited Away,2001
+122,Girls Trip,2017
+108,Deadpool,2016
+130,Kung Fu Yoga,2017
+99,Annabelle,2014
+124,The Mummy,1999
+93,Black Butterfly,2017
+110,The Circle,2017
+84,Beauty and the Beast,1991
+93,Rescue Under Fire,2017
+91,I Spit on Your Grave III: Vengeance is Mine,2015
+97,When the Bough Breaks,2016
+91,It Comes at Night,2017
+132,The Equalizer,2014
+138,Angels & Demons,2009
+133,Creed,2015
+117,Cars,2006
+108,School of Rock,2003
+112,Rear Window,1954
+108,Zootopia,2016
+98,Six Days Seven Nights,1998
+137,The Hunger Games: Mockingjay - Part 2,2015
+76,The Nightmare Before Christmas,1993
+131,Pacific Rim,2013
+123,Mission: Impossible II,2000
+100,A Mighty Heart,2007
+101,John Wick,2014
+152,Harry Potter and the Philosopher's Stone,2001
+81,Toy Story,1995
+110,We're the Millers,2013
+96,I.T.,2016
+89,Ballerina,2016
+162,Avatar,2009
+145,Minority Report,2002
+145,Independence Day,1996
+83,Spirit: Stallion of the Cimarron,2002
+119,Captain Fantastic,2016
+92,The Saint,2017
+96,Tron,1982
+98,Despicable Me 2,2013
+143,The Great Gatsby,2013
+107,The Adventures of Tintin,2011
+142,The Shawshank Redemption,1994
+130,The Twilight Saga: New Moon,2009
+108,Night at the Museum,2006
+133,American Sniper,2014
+113,Baby Driver,2017
+136,Pirates of the Caribbean: On Stranger Tides,2011
+120,The Social Network,2010
+79,9,2009
+166,The Curious Case of Benjamin Button,2008
+178,The Lord of the Rings: The Fellowship of the Ring,2001
+110,Top Gun,1986
+131,National Treasure,2004
+111,Kill Bill: Vol. 1,2003
+129,Dead Poets Society,1989
+96,The Bye Bye Man,2017
+119,The Bad Batch,2017
+96,Vice,2015
+102,Rings,2017
+113,The Maze Runner,2014
+165,The Dark Knight Rises,2012
+141,Catch Me If You Can,2002
+136,The Matrix,1999
+83,Sausage Party,2016
+155,Gladiator,2000
+117,T2 Trainspotting,2017
+143,Man of Steel,2013
+120,Chappie,2015
+130,The Prestige,2006
+87,Child's Play,1988
+119,Planet of the Apes,2001
+138,Harry Potter and the Order of the Phoenix,2007
+137,Furious 7,2015
+163,Watchmen,2009
+137,Logan,2017
+157,Harry Potter and the Goblet of Fire,2005
+116,Nocturnal Animals,2016
+154,Pulp Fiction,1994
+106,Non-Stop,2014
+113,28 Days Later,2002
+92,The Pink Panther 2,2009
+124,Beautiful Creatures,2013
+115,Thor,2011
+93,The Beguiled,2017
+200,The Godfather: Part II,1974
+119,American History X,1998
+107,The Hills Have Eyes,2006
+116,Life Is Beautiful,1997
+84,Teen Titans: The Judas Contract,2017
+107,Danny Collins,2015
+111,Ratatouille,2007
+118,Kong: Skull Island,2017
+169,Saving Private Ryan,1998
+161,The Hobbit: The Desolation of Smaug,2013
+107,Ghostbusters,1984
+100,Coraline,2009
+119,The Bourne Identity,2002
+104,The Purge: Anarchy,2014
+124,Die Hard 2,1990
+125,Batman & Robin,1997
+92,Toy Story 2,1999
+108,American Pastoral,2016
+139,Open Range,2003
+93,Trainspotting,1996
+157,Zodiac,2007
+118,Fifty Shades Darker,2017
+87,Security,2017
+156,The Revenant,2015
+112,Planet of the Apes,1968
+141,The Martian,2015
+94,Inside Out,2015
+140,Operation Mekong,2016
+115,The Twilight Saga: Breaking Dawn - Part 2,2012
+90,Kung Fu Panda,2008
+94,Addams Family Values,1993
+100,Sister Act,1992
+109,Cars 3,2017
+90,Shrek,2001
+109,Psycho,1960
+167,The Hateful Eight,2015
+137,Guardians of the Galaxy Vol. 2,2017
+13,Michael Jackson's Thriller,1983
+115,The Bourne Ultimatum,2007
+137,Child 44,2015
+144,13 Hours: The Secret Soldiers of Benghazi,2016
+97,Irreversible,2002
+130,Dawn of the Planet of the Apes,2014
+90,Saw VI,2009
+122,3:10 to Yuma,2007
+88,Men in Black II,2002
+122,Twilight,2008
+105,Edward Scissorhands,1990
+123,The Hunger Games: Mockingjay - Part 1,2014
+139,Spider-Man 3,2007
+108,Horrible Bosses 2,2014
+115,Now You See Me,2013
+117,Their Finest,2017
+89,Smurfs: The Lost Village,2017
+149,2001: A Space Odyssey,1968
+85,Amityville: The Awakening,2017
+107,Field of Dreams,1989
+131,Die Hard,1988
+75,Alice in Wonderland,1951
+95,American Pie,1999
+151,Pirates of the Caribbean: Dead Man's Chest,2006
+89,S.W.A.T.: Under Siege,2017
+132,V for Vendetta,2006
+177,Braveheart,1995
+93,Overdrive,2017
+148,Spectre,2015
+169,Pirates of the Caribbean: At World's End,2007
+108,Sing,2016
+146,Harry Potter and the Deathly Hallows: Part 1,2010
+134,Princess Mononoke,1997
+135,Waterworld,1995
+127,Se7en,1995
+124,Captain America: The First Avenger,2011
+109,The Legend of Tarzan,2016
+141,Wonder Woman,2017
+103,Insidious,2010
+110,Leon: The Professional,1994
+116,Self/less,2015
+97,The Princess and the Frog,2009
+146,The Hunger Games: Catching Fire,2013
+107,Ghost in the Shell,2017
+119,Birdman,2014
+108,A Monster Calls,2016
+162,The Godfather: Part III,1990
+141,Harry Potter and the Prisoner of Azkaban,2004
+103,Toy Story 3,2010
+76,Eight Crazy Nights,2002
+102,The Mother of Tears,2007
+145,The Handmaiden,2016
+88,The House,2017
+105,The Book of Henry,2017
+148,Brimstone,2017
+140,Batman Begins,2005
+91,Diary of a Wimpy Kid: The Long Haul,2017
+110,The Mummy,2017
+105,Wild Orchid,1989
+151,Batman v Superman: Dawn of Justice,2016
+127,Snow White and the Huntsman,2012
+229,Once Upon a Time in America,1984
+113,Arrival,2016
+148,Anna and the King,1999
+100,Ice Age: Collision Course,2016
+107,Predator,1987
+145,Gone Girl,2014
+90,Child's Play 3,1991
+136,Star Wars: The Force Awakens,2015
+123,Seven Pounds,2008
+140,War for the Planet of the Apes,2017
+121,Allegiant,2016
+97,Night at the Museum: Secret of the Tomb,2014
+116,Back to the Future,1985
+190,Dilwale Dulhania Le Jayenge,1995
+195,Schindler's List,1993
+84,Passenger 57,1992
+105,Disturbia,2007
+126,Iron Man,2008
+89,Sleight,2017
+100,Ricki and the Flash,2015
+124,The Empire Strikes Back,1980
+149,The Da Vinci Code,2006
+161,Harry Potter and the Chamber of Secrets,2002
+126,Batman,1989
+143,The Avengers,2012
+92,Trolls,2016
+135,Fury,2014
+101,xXx: State of the Union,2005
+100,It Follows,2015
+106,The Fast and the Furious,2001
+106,Your Name.,2016
+128,La La Land,2016
+169,The Hobbit: An Unexpected Journey,2012
+105,Whiplash,2014
+141,Avengers: Age of Ultron,2015
+121,Sicario,2015
+127,Miss Peregrine's Home for Peculiar Children,2016
+117,The A-Team,2010
+142,The Amazing Spider-Man 2,2014
+136,The Amazing Spider-Man,2012
+115,Assassin's Creed,2016
+136,The Fate of the Furious,2017
+114,Run All Night,2015
+95,Despicable Me,2010
+85,High Noon,1952
+124,Jaws,1975
+107,xXx: Return of Xander Cage,2017
+144,X-Men: Apocalypse,2016
+89,The Lion King,1994
+125,Trainwreck,2015
+124,Iron Man 2,2010
+130,Kingsman: The Secret Service,2015
+117,The Twilight Saga: Breaking Dawn - Part 1,2011
+89,Derailed,2002
+128,Vertigo,1958
+139,Divergent,2014
+97,Dark Skies,2013
+102,Big Hero 6,2014
+103,Mr. Holmes,2015
+130,Harry Potter and the Deathly Hallows: Part 2,2011
+129,Beauty and the Beast,2017
+117,Blade Runner,1982
+143,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+109,A Man Apart,2003
+102,The Hangover Part II,2011
+117,Blade II,2002
+86,The Emoji Movie,2017
+117,Split,2016
+122,Alien: Covenant,2017
+187,King Kong,2005
+121,Spider-Man,2002
+113,The Imitation Game,2014
+105,Pixels,2015
+120,Platoon,1986
+91,Ice Age: The Meltdown,2006
+148,Inception,2010
+108,Alice in Wonderland,2010
+121,Guardians of the Galaxy,2014
+131,Mission: Impossible - Rogue Nation,2015
+131,X-Men: Days of Future Past,2014
+120,True Romance,1993
+127,Hidden Figures,2016
+179,The Lord of the Rings: The Two Towers,2002
+77,Peter Pan,1953
+133,Rogue One: A Star Wars Story,2016
+127,Basic Instinct,1992
+121,Underworld,2003
+90,Saw: The Final Chapter,2010
+111,The Omen,1976
+110,Colossal,2017
+134,12 Years a Slave,2013
+112,Super 8,2011
+99,0.0986111111111111,2017
+101,Teenage Mutant Ninja Turtles,2014
+114,The Incredible Hulk,2008
+120,The Big Sick,2017
+100,Fantastic Four,2015
+94,Paul Blart: Mall Cop 2,2015
+127,Real Steel,2011
+93,Iron Sky,2012
+95,A Bug's Life,1998
+106,The Fast and the Furious,2001
+89,Amateur Night,2016
+118,Two Is a Family,2016
+107,The Sixth Sense,1999
+97,The Boy,2016
+121,Inferno,2016
+89,47 Meters Down,2017
+154,The Last Samurai,2003
+153,Inglourious Basterds,2009
+92,A Ghost Story,2017
+117,The Pursuit of Happyness,2006
+100,Carrie,2013
+117,Alien,1979
+106,Mine,2016
+165,Transformers: Age of Extinction,2014
+136,Kill Bill: Vol. 2,2004
+94,Life of Crime,2013
+136,A Clockwork Orange,1971
+86,The Autopsy of Jane Doe,2016
+122,John Wick: Chapter 2,2017
+144,The Hobbit: The Battle of the Five Armies,2014
+115,The Founder,2016
+136,Captain America: The Winter Soldier,2014
+106,Ted,2012
+130,The Mummy Returns,2001
+133,One Flew Over the Cuckoo's Nest,1975
+91,Fist Fight,2017
+98,Collide,2016
+120,The BFG,2016
+89,Captain Underpants: The First Epic Movie,2017
+90,Identity,2003
+103,Life,2017
+104,Robin Hood: Men in Tights,1993
+125,TRON: Legacy,2010
+124,The Punisher,2004
+109,Taken 3,2014
+93,Bandidas,2006
+116,Passengers,2016
+109,The Thing,1982
+130,A Silent Voice,2016
+124,Prometheus,2012
+117,300,2006
+104,Get Out,2017
+126,Spy Game,2001
+142,The Hunger Games,2012
+118,Train to Busan,2016
+129,Pirates of the Caribbean: Dead Men Tell No Tales,2017
+108,The Bourne Supremacy,2004
+130,Need for Speed,2014
+137,Aliens,1986
+120,Independence Day: Resurgence,2016
+96,Sully,2016
+81,Chicken Little,2005
+114,Alien³,1992
+87,The Woman in Red,1984
+130,Tomorrowland,2015
+94,Dogtooth,2009
+138,American Hustle,2013
+142,Forrest Gump,1994
+115,Terminator Salvation,2009
+121,Star Wars,1977
+102,The Wizard of Oz,1939
+169,Interstellar,2014
+110,Operation Chromite,2016
+94,Badlands,1973
+86,The Purge,2013
+83,No Good Deed,2014
+124,Jupiter Ascending,2015
+119,Insurgent,2015
+194,Titanic,1997
+104,Who Framed Roger Rabbit,1988
